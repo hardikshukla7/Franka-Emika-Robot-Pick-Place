@@ -10,7 +10,7 @@ In this project, we utilize inverse kinematics alongside computer vision to enab
 
 ### Project Visualization
 
-![Pick and Place Challenge](https://github.com/hardikshukla7/Franka-Emika-Robot-Pick-Place/blob/main/Screenshot%202023-12-13%20055619.png?raw=true)
+![Pick and Place Challenge](https://github.com/hardikshukla7/Franka-Emika-Robot-Pick-Place/blob/main/visualization.png?raw=true)
 
 ![Pick and Place in Action](https://github.com/hardikshukla7/Franka-Emika-Robot-Pick-Place/blob/main/pick_and_place.png?raw=true)
 
